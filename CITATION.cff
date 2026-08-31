@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: "Resilient-Narrative-Core: Empathy Score and long-form narrative runtime"
+message: "If you use this software or the Empathy Score, please cite it."
+type: software
+authors:
+  - family-names: Sameen
+    given-names: Naseha
+    affiliation: NasLab
+    orcid: ""
+abstract: >
+  Closed-form Empathy Score E(t) = tanh(αC + βA + γR) · Φ − η
+  for fictional and agentic characters in long-form co-authored
+  narrative. Intent is out of scope. Standing only.
+keywords:
+  - empathy score
+  - narrative agents
+  - long-form LLM
+  - character consistency
+license: MIT
+copyright: "Copyright © 2026 Naseha Sameen"
+repository-code: "https://github.com/Naseha/Resilient-Narrative-Core"
+notes: >
+  The closed-form Empathy Score and the C–A–R–Φ–η decomposition
+  were derived in collaboration with Grok (xAI), operating in
+  the Qasif working mode documented in this repository.
+  Early element brainstorming included Gemini (Google) and Qwen.
+  Collaboration is acknowledged. Copyright remains with
+  Naseha Sameen.
+version: "4.0.0"
+date-released: "2026-08-31"
