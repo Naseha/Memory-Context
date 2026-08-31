@@ -1,16 +1,16 @@
 cff-version: 1.2.0
-title: "Resilient-Narrative-Core: Empathy Score and long-form narrative runtime"
+title: "Yadam-Hast: Case Study including Empathy Score and Memoery Context"
 message: "If you use this software or the Empathy Score, please cite it."
 type: software
 authors:
   - family-names: Sameen
     given-names: Naseha
     affiliation: NasLab
-    orcid: ""
+    orcid: "https://orcid.org/0009-0002-2170-7710"
 abstract: >
   Closed-form Empathy Score E(t) = tanh(αC + βA + γR) · Φ − η
-  for fictional and agentic characters in long-form co-authored
-  narrative. Intent is out of scope. Standing only.
+  for fictional and agentic characters in long-form co-authored and other implementation which involves user persona
+  
 keywords:
   - empathy score
   - narrative agents
@@ -26,5 +26,5 @@ notes: >
   Early element brainstorming included Gemini (Google) and Qwen.
   Collaboration is acknowledged. Copyright remains with
   Naseha Sameen.
-version: "4.0.0"
+version: "v1.1-case-study"
 date-released: "2026-08-31"
