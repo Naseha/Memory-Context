@@ -1,4 +1,9 @@
 # Memory-Context
+##Authorship
+Author: Naseha Sameen (NasLab). The closed-form Empathy Score and the C–A–R–Φ–η decomposition were derived in collaboration with Grok (xAI), operating in the Qasif working mode documented in Resilient-Narrative-Core. Early element brainstorming included Gemini (Google) and Qwen. Copyright © 2026 Naseha Sameen.
+
+Historical sketch. Current character instrument lives in Resilient-Narrative-Core; paper + code will cite [mpathy-Module]
+
 **Yadam-Hast** — A lightweight method to reduce context loss and hallucination in long AI conversations, roleplays, and multi-session threads.
 The product vision and architect of the skill, Naseha Sameen is not a developer and does not claim to be one. She just understands the flow and logic and can ask the AIs team members to fulfil her vision.
 
