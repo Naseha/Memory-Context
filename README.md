@@ -1,6 +1,9 @@
 # Memory-Context
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22213221.svg)](https://doi.org/10.5281/zenodo.22213221)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22213221.svg)](https://doi.org/10.5281/zenodo.22213221)
+
 Cite this tag for the memory-protect case study and the first user-match Empathy sketch.  
 Do not cite it as the current character score.
 Author: Naseha Sameen (NasLab). ORCID: [0009-0002-2170-7710](https://orcid.org/0009-0002-2170-7710)
