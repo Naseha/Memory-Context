@@ -28,6 +28,37 @@ In long conversations (especially creative, multi-day, or high-stakes threads), 
 - Models fail to match the user’s actual communication style and emotional stance
 This repository offers lightweight, practical methods to address both.
 
+## Evolution  
+The empathy equation used here originates in the Empathy‑Module.
+Memory‑Context represents the first practical application of the formula — using it to match user stance and reduce relational drift in long conversations.
+The full runtime implementation lives in Resilient‑Narrative‑Core.
+Together they form a practical approach to reducing both context loss and relational friction in long conversations.
+The empathy equation remains constant across all repos; what evolves is its application — from continuity protection (Memory‑Context) to relational matching (Empathy‑Module) to full narrative runtime stability (RNC).
+
+
+## Architecture
+Memory‑Context is a continuity primitive.  
+It compresses long conversational history into a lean, load‑bearing summary so motion, facts, and emotional stance survive across threads.
+
+It has three components:
+- **[The Spine](ca://s?q=Explain_memory_context_spine)** — compressed unresolved beats, facts, emotional temperature  
+- **[The Protect Layer](ca://s?q=Explain_memory_context_protect_layer)** — rules for what enters the spine  
+- **[The Empathy Match](ca://s?q=Explain_empathy_match_in_memory_context)** — first practical use of the empathy equation
+
+## Design Goals
+Memory‑Context exists to preserve motion, facts, and emotional continuity in long conversations.  
+It reduces drift, resets, and hallucination by compressing history into a load‑bearing spine instead of a transcript.
+
+## Limitations
+Memory‑Context does not regulate tone, persona, or narrative temperature.  
+It protects continuity only; relational stance is handled by the Empathy‑Module, and full runtime stability lives in Resilient‑Narrative‑Core.
+
+## Relationship to Empathy‑Module
+Memory‑Context is the first practical application of the empathy equation, using it to match user stance and reduce relational friction.
+
+## Relationship to RNC
+RNC integrates Memory‑Context (continuity) and Empathy‑Module (relational stance) into a unified runtime engine for long‑form narrative stability.
+
 ## Status
 Version 1 – Core case study released  
 (Memory Context Protect + Calculate & Match Empathy)
