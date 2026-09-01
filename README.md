@@ -39,4 +39,4 @@ Version 1 – Core case study released
 
 
 #Complete RP/Story Package
-Complete Package for Story or RP with test score moving from 6 to 8 and yo 9 IS lIVE AT REPO Resilient-Narrative-Core
+Complete Package for Story or RP with test score moving from 6 to 8 and to 9 and then to 7 with 749 pages of of over 80+ hrs of stress-test IS lIVE AT REPO Resilient-Narrative-Core
