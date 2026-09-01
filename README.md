@@ -1,5 +1,4 @@
 # Memory-Context
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22213221.svg)](https://doi.org/10.5281/zenodo.22213221)
 
 Cite this tag for the memory-protect case study and the first user-match Empathy sketch.  
