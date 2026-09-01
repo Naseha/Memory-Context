@@ -1,15 +1,23 @@
+
 # Memory-Context
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22213221.svg)](https://doi.org/10.5281/zenodo.22213221)
+
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22213221-blue.svg)](https://doi.org/10.5281/zenodo.22213221)
 
 Cite this tag for the memory-protect case study and the first user-match Empathy sketch.  
 Do not cite it as the current character score.
-Author: Naseha Sameen (NasLab). ORCID: [0009-0002-2170-7710](https://orcid.org/0009-0002-2170-7710)
-Current instrument: [Empathy-Module](https://github.com/Naseha/Empathy-Module) · DOI [10.5281/zenodo.22213030](https://doi.org/10.5281/zenodo.22213030)
 
-##Authorship
-Author: Naseha Sameen (NasLab). The closed-form Empathy Score and the C–A–R–Φ–η decomposition were derived in collaboration with Grok (xAI), operating in the Qasif working mode documented in Resilient-Narrative-Core. Early element brainstorming included Gemini (Google) and Qwen. Copyright © 2026 Naseha Sameen.
+Author: Naseha Sameen (NasLab).  
+ORCID: [0009-0002-2170-7710](https://orcid.org/0009-0002-2170-7710)
 
-Historical sketch. Current character instrument lives in Resilient-Narrative-Core; paper + code will cite [mpathy-Module]
+Current character instrument: [Empathy-Module](https://github.com/Naseha/Empathy-Module) · [10.5281/zenodo.22213030](https://doi.org/10.5281/zenodo.22213030)
+
+## Authorship
+
+Author: Naseha Sameen (NasLab).  
+The closed-form Empathy Score and the C–A–R–Φ–η decomposition were derived in collaboration with Grok (xAI), operating in the Qasif working mode documented in Resilient-Narrative-Core. Early element brainstorming included Gemini (Google) and Qwen.  
+Copyright © 2026 Naseha Sameen.
+
+Historical sketch. Do not cite this repo as the current character score. Paper and code cite Empathy-Module.
 
 **Yadam-Hast** — A lightweight method to reduce context loss and hallucination in long AI conversations, roleplays, and multi-session threads.
 The product vision and architect of the skill, Naseha Sameen is not a developer and does not claim to be one. She just understands the flow and logic and can ask the AIs team members to fulfil her vision.
